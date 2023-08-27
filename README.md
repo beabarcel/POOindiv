@@ -1,2 +1,2 @@
 # POOindiv
-Reposiório individual para estudar POO pelo SERRATEC
+Repositório individual para estudar POO pelo SERRATEC
