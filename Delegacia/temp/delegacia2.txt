@@ -1,0 +1,5 @@
+DENUNCIA;1;Rio de Janeiro;A vitima sofreu assalto.;2023-06-12;01569874365
+DENUNCIA;2;Rio de Janeiro;A vitima sofreu furto.;2023-07-22;65872596310
+DENUNCIA;3;Rio de Janeiro;A vitima sofreu racismo.;2023-01-30;18532594702
+DENUNCIA;4;Campos dos Goytacazes;A vitima sofreu agressão.;2021-09-16;87266931524
+DENUNCIA;5;Petrópolis;A vítima sofreu homofobia.;2023-02-26;25633108713

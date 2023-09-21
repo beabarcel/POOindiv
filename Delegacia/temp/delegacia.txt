@@ -1,0 +1,5 @@
+VITIMA;1;Carla Silva;01569874365;1982-04-01;Rua Visconde da Pedra.;21998512569
+VITIMA;2;Valter Franco;65872596310;1949-05-26;Rua Maria Lopes.;21992634785
+VITIMA;3;Alberto Granja;18532594702;1874-08-14;Rua das Flores, sem nº.;21981630042
+VITIMA;4;Armando Costa;87266931524;1998-12-28;Ladeira das Bromelias.;2299710026
+VITIMA;5;Jessica Passos;25633108713;2004-02-06;Rua União e Indústria., nº 680;24988509014
