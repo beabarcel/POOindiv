@@ -31,16 +31,28 @@ public class Menu {
 			switch (opcao) {
 			case 1:
 				LeituraEscrita.relatorioTela(mapaVitima, mapaDenuncia);
-				
+				break;
 			case 2:
 				LeituraEscrita.relatorioImpresso(mapaVitima, mapaDenuncia);
+				break;
+			   case 3:
+			        logger.log(Level.INFO, "Você saiu do sistema.");
+			        System.exit(3);
+			        break;
+			    default:
+			        logger.log(Level.INFO, "Opção inválida! Digite um número novamente.");
+			        break;
+				
 			}
 			logger.log(Level.INFO, "Deseja fazer uma nova pesquisa?\n [1] Sim.\n [2] Não.\n");
 			int opcao2 = ler.nextInt();
 			if (opcao2 == 2) {
 				logger.log(Level.INFO, "Fim da execucao.");
 				repete = false;
+				
 			}
+			
+				
 		} while (repete);
 		ler.close();
 
